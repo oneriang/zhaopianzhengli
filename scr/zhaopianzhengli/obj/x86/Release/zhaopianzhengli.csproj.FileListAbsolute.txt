@@ -1,0 +1,14 @@
+C:\Users\FCSDL001\AppData\Local\Temporary Projects\zhaopianzhengli\bin\Release\zhaopianzhengli.exe
+C:\Users\FCSDL001\AppData\Local\Temporary Projects\zhaopianzhengli\bin\Release\zhaopianzhengli.pdb
+C:\Users\FCSDL001\AppData\Local\Temporary Projects\zhaopianzhengli\obj\x86\Release\zhaopianzhengli.Properties.Resources.resources
+C:\Users\FCSDL001\AppData\Local\Temporary Projects\zhaopianzhengli\obj\x86\Release\zhaopianzhengli.zhaopianzhengli.resources
+C:\Users\FCSDL001\AppData\Local\Temporary Projects\zhaopianzhengli\obj\x86\Release\zhaopianzhengli.csproj.GenerateResource.Cache
+C:\Users\FCSDL001\AppData\Local\Temporary Projects\zhaopianzhengli\obj\x86\Release\zhaopianzhengli.exe
+C:\Users\FCSDL001\AppData\Local\Temporary Projects\zhaopianzhengli\obj\x86\Release\zhaopianzhengli.pdb
+C:\Users\FCSDL001\documents\visual studio 2010\Projects\zhaopianzhengli\zhaopianzhengli\obj\x86\Release\zhaopianzhengli.exe
+C:\Users\FCSDL001\documents\visual studio 2010\Projects\zhaopianzhengli\zhaopianzhengli\obj\x86\Release\zhaopianzhengli.pdb
+C:\Users\FCSDL001\documents\visual studio 2010\Projects\zhaopianzhengli\zhaopianzhengli\bin\Release\zhaopianzhengli.exe
+C:\Users\FCSDL001\documents\visual studio 2010\Projects\zhaopianzhengli\zhaopianzhengli\bin\Release\zhaopianzhengli.pdb
+C:\Users\FCSDL001\documents\visual studio 2010\Projects\zhaopianzhengli\zhaopianzhengli\obj\x86\Release\zhaopianzhengli.Properties.Resources.resources
+C:\Users\FCSDL001\documents\visual studio 2010\Projects\zhaopianzhengli\zhaopianzhengli\obj\x86\Release\zhaopianzhengli.zhaopianzhengli.resources
+C:\Users\FCSDL001\documents\visual studio 2010\Projects\zhaopianzhengli\zhaopianzhengli\obj\x86\Release\zhaopianzhengli.csproj.GenerateResource.Cache

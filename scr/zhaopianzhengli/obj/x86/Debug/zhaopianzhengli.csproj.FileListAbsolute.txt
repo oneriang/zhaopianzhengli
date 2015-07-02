@@ -1,0 +1,25 @@
+C:\Users\FCSDL001\documents\visual studio 2010\Projects\zhaopianzhengli\zhaopianzhengli\bin\Debug\zhaopianzhengli.exe
+C:\Users\FCSDL001\documents\visual studio 2010\Projects\zhaopianzhengli\zhaopianzhengli\bin\Debug\zhaopianzhengli.pdb
+C:\Users\FCSDL001\documents\visual studio 2010\Projects\zhaopianzhengli\zhaopianzhengli\obj\x86\Debug\zhaopianzhengli.csprojResolveAssemblyReference.cache
+C:\Users\FCSDL001\documents\visual studio 2010\Projects\zhaopianzhengli\zhaopianzhengli\obj\x86\Debug\zhaopianzhengli.Properties.Resources.resources
+C:\Users\FCSDL001\documents\visual studio 2010\Projects\zhaopianzhengli\zhaopianzhengli\obj\x86\Debug\zhaopianzhengli.zhaopianzhengli.resources
+C:\Users\FCSDL001\documents\visual studio 2010\Projects\zhaopianzhengli\zhaopianzhengli\obj\x86\Debug\zhaopianzhengli.csproj.GenerateResource.Cache
+C:\Users\FCSDL001\documents\visual studio 2010\Projects\zhaopianzhengli\zhaopianzhengli\obj\x86\Debug\zhaopianzhengli.exe
+C:\Users\FCSDL001\documents\visual studio 2010\Projects\zhaopianzhengli\zhaopianzhengli\obj\x86\Debug\zhaopianzhengli.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\zhaopianzhengli\zhaopianzhengli\obj\x86\Debug\zhaopianzhengli.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\zhaopianzhengli\zhaopianzhengli\obj\x86\Debug\zhaopianzhengli.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\zhaopianzhengli\zhaopianzhengli\bin\Debug\zhaopianzhengli.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\zhaopianzhengli\zhaopianzhengli\bin\Debug\zhaopianzhengli.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\zhaopianzhengli\zhaopianzhengli\obj\x86\Debug\zhaopianzhengli.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\zhaopianzhengli\zhaopianzhengli\obj\x86\Debug\zhaopianzhengli.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\zhaopianzhengli\zhaopianzhengli\obj\x86\Debug\zhaopianzhengli.zhaopianzhengli.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\zhaopianzhengli\zhaopianzhengli\obj\x86\Debug\zhaopianzhengli.csproj.GenerateResource.Cache
+C:\Users\tt\OneDrive\Project\zhaopianzhengli_20140309\zhaopianzhengli\zhaopianzhengli\obj\x86\Debug\zhaopianzhengli.exe
+C:\Users\tt\OneDrive\Project\zhaopianzhengli_20140309\zhaopianzhengli\zhaopianzhengli\obj\x86\Debug\zhaopianzhengli.pdb
+C:\Users\tt\OneDrive\Project\zhaopianzhengli_20140309\zhaopianzhengli\zhaopianzhengli\bin\Debug\zhaopianzhengli.exe
+C:\Users\tt\OneDrive\Project\zhaopianzhengli_20140309\zhaopianzhengli\zhaopianzhengli\bin\Debug\zhaopianzhengli.pdb
+C:\Users\tt\OneDrive\Project\zhaopianzhengli_20140309\zhaopianzhengli\zhaopianzhengli\obj\x86\Debug\zhaopianzhengli.csprojResolveAssemblyReference.cache
+C:\Users\tt\OneDrive\Project\zhaopianzhengli_20140309\zhaopianzhengli\zhaopianzhengli\obj\x86\Debug\zhaopianzhengli.Properties.Resources.resources
+C:\Users\tt\OneDrive\Project\zhaopianzhengli_20140309\zhaopianzhengli\zhaopianzhengli\obj\x86\Debug\zhaopianzhengli.zhaopianzhengli.resources
+C:\Users\tt\OneDrive\Project\zhaopianzhengli_20140309\zhaopianzhengli\zhaopianzhengli\obj\x86\Debug\zhaopianzhengli.csproj.GenerateResource.Cache
+C:\Users\tt\OneDrive\Project\zhaopianzhengli_20140309\zhaopianzhengli\zhaopianzhengli\bin\Debug\zhaopianzhengli.exe.config
